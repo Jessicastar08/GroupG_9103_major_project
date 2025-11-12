@@ -3,9 +3,9 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(600);
 }
 
 function draw() {
-  background(220);
+  background(600);
 }
